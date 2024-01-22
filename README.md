@@ -25,7 +25,7 @@ Visit our [website](https://ai.hackerland.in) to explore a variety of resources,
 To contribute to AI Hackerland, follow these steps:
 
 1. Fork the repository.
-2. Clone your forked repository: `git clone https://github.com/Hackerland-in/ai-hackerland.git`
+2. Clone your forked repository: `git clone https://github.com/Hackerland-in/ai.hackerland.in.git`
 3. Create a new branch: `git checkout -b feature/your-feature`
 4. Make your changes and commit: `git commit -m "Add your feature"`
 5. Push to the branch: `git push origin feature/your-feature`
