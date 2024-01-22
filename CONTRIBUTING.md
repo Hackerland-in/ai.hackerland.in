@@ -6,16 +6,16 @@
 
 ### Reporting Issues
 
-If you encounter a bug, inconsistency, or have a feature request, please open an issue on our [GitHub repository](https://github.com/Hackerland-in/ai-hackerland/issues). Provide a clear description, steps to reproduce, and any relevant details.
+If you encounter a bug, inconsistency, or have a feature request, please open an issue on our [GitHub repository](https://github.com/Hackerland-in/ai.hackerland.in/issues). Provide a clear description, steps to reproduce, and any relevant details.
 
 ### Submitting Pull Requests
 
 1. Fork the repository.
-2. Clone your fork: `git clone https://github.com/Hackerland-in/ai-hackerland.git`
+2. Clone your fork: `git clone https://github.com/Hackerland-in/ai.hackerland.in.git`
 3. Create a new branch: `git checkout -b feature/your-feature`
 4. Make your changes and commit: `git commit -m "Add your feature"`
 5. Push to the branch: `git push origin feature/your-feature`
-6. Open a pull request on the [GitHub repository](https://github.com/Hackerland-in/ai-hackerland/pulls).
+6. Open a pull request on the [GitHub repository](https://github.com/Hackerland-in/ai.hackerland.in/pulls).
 
 ### Code Style
 
