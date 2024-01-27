@@ -41,6 +41,6 @@ Join our community on [Discord](https://discord.gg/your-discord-invite) to conne
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [BSD 3-Clause License](LICENSE).
 
 Happy learning and contributing!
